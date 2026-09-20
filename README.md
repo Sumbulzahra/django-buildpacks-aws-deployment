@@ -16,6 +16,9 @@ Project Maintainer: **Sumbul Zahra**
 This repository demonstrates how to build and deploy a production-ready Python/Django container on **AWS EC2** using **Cloud Native Buildpacks (CNCF Pack CLI)** without writing or maintaining `Dockerfiles`.
 
 ---
+> 🎓 **New to Cloud Native Buildpacks or AWS?**  
+> Check out the [RESOURCES.md](RESOURCES.md) file for prerequisites, learning links, and beginner-friendly troubleshooting steps.
+---
 
 ## 🎯 Technical Highlights
 
