@@ -11,7 +11,7 @@ Project Maintainer: **Sumbul Zahra**
 
 ## 📌 Architecture Overview
 
-![AWS DevOps Buildpacks Architecture](docs/architecture.png)
+![AWS DevOps Buildpacks Architecture](docs/architecture.png.jfif)
 
 This repository demonstrates how to build and deploy a production-ready Python/Django container on **AWS EC2** using **Cloud Native Buildpacks (CNCF Pack CLI)** without writing or maintaining `Dockerfiles`.
 
